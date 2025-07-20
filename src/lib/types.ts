@@ -1,0 +1,1 @@
+export type PrivacySettings = 'private' | 'public'
